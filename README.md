@@ -10,6 +10,8 @@
 
 3. 그리고 Pull Request를 만들어주세요.
 
+4. [이렇게](https://github.com/likelion-kookmin/github-pull-request-practice/pull/1) PR을 만드시면 됩니다. PR 설명은 여러분 자유입니다!
+
 ## 실습 참여 명단
 
 | 이름 | 기수 |
